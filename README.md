@@ -149,4 +149,6 @@ The OSaaS architecture consists of three layers:
 * Gartner, “The Future of Operating Systems in AI-Driven Enterprises,” 2024.
 * Academic research on AI-driven OS integration and service orchestration.
 
-Do you want me to create that diagram next?
+## Refer to
+
+https://github.com/xbsdchina/AIAOS
